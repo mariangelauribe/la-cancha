@@ -1,0 +1,65 @@
+.cancha {
+	width: 940px;
+	height: 520px;
+	background: #04B431;
+	position: absolute;
+}
+
+.borde{
+	width: 900px;
+	height: 480px;
+	background:  #04B431;
+	border: 1px white solid;
+	top: 20px;
+	left: 20px;
+	position: absolute;
+}
+
+.arco1{
+	width: 100px;
+	height: 160px;
+	background: #04B431;
+	border: 1px white solid;
+	top: 160px;
+	left: -1px;
+	position: absolute;
+}
+
+.arco2{
+	width: 100px;
+	height: 160px;
+	background: #04B431;
+	border: 1px white solid;
+	top: 160px;
+	position: absolute;
+	left: 799px;
+}
+
+.centro{
+	width: 160px;
+	height: 160px;
+	background: #04B431;
+	border-radius: 50%;
+	border: 1px white solid;
+	top: 160px;
+	left: 360px;
+	position: absolute;
+}
+
+.pelota1{
+	top: 165px;
+	left: 88px;
+	position: absolute;
+}
+
+.pelota2{
+	top: 80px;
+	left: 450px;
+	position: absolute;
+}
+
+.pelota3{
+	top: 295px;
+	left: 770px;
+	position: absolute;
+}
